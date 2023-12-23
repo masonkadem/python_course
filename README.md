@@ -1,2 +1,2 @@
-# python_course
-This repository contains a Python-based programming material
+# Python course
+This repository contains a comprehensive beginner friendly Python-based programming course, in a single notebook.
